@@ -1,17 +1,17 @@
-body{
- text-align: center;   
+h1
+{
+	color: red; 
+	font-size: 40px;
 }
-.body-back{
-    background-image: url("https://www.fantasyarts.net/wp-content/uploads/2015/01/winter-sparkle-original-madart-painting-megan-duncanson.jpg");
-    background-position: center;
-    background-size: cover;
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
 }
-.header{
-    color: white;
-    font-size: 40px;
-}
-#mycanvas{
-    background-color: white;
-    border-width: 10px; 
-    border-style: ridge;
+
+#myCanvas{
+	border-width: 10px;
+	background-color:white;
+	border-style: ridge;
+
 }
